@@ -1,0 +1,10 @@
+{ 
+    // nombre de su producto / solución
+    "project_name": "3**3",
+    // descripción de una frase y directa al grano de la solución
+    "oneliner": "high ed democratization with ai",
+    // url al logo de proyecto. mínimo 200x200, png. puede estar hosteado en el mismo repo.
+    "logo_url": "https://github.com/platanus-hack/team-27/blob/main/logo.png",
+    // url para acceder a su app. si es apk u otro, link de descarga directa.
+    "app_url": "https://hack-platanus-g27.vercel.app/"
+}
